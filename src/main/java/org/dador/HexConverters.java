@@ -1,7 +1,7 @@
 package org.dador;
 
 import java.nio.charset.StandardCharsets;
-
+/**dzdsdsdsdsd*/
 /**
  * Collection of tools to manipulate String represented as Hex characters
  * Created by Damien Salvador on 18/10/2016.
